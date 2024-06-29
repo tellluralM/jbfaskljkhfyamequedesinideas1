@@ -1,0 +1,32 @@
+{    
+  "0": {
+    "element_name": "Na",
+    "barcode_value": 3,
+    "number_of_electron": 1
+  },
+  
+  "1": {
+    "element_name": "Cl",
+    "barcode_value": 5,
+    "number_of_electron": 7      
+  },
+
+  "2": {
+    "element_name": "Li",
+    "barcode_value": 1,
+    "number_of_electron": 3    
+  },
+
+  "3": {
+    "element_name": "H",
+    "barcode_value": 0,
+    "number_of_electron": 1
+  },
+
+  "4": {
+    "element_name": "K",
+    "barcode_value": 2,
+    "number_of_electron": 19
+  }
+}
+
